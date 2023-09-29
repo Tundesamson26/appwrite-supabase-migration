@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@appwrite.io/pink": "^0.0.6-rc.15",
     "@supabase/supabase-js": "^2.36.0",
     "next": "latest",
     "react": "latest",
